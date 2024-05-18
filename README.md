@@ -7,7 +7,7 @@
 
 - 💬 I'm interested in **coding**
 
-- 📫 How to reach me **https://www.linkedin.com/in/riccardo-r-540404251/**
+- 📫 How to reach me **riccardo8902@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
