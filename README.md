@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shirloin" alt="shirloin" /></a> </p>
 
-- 🔭 I’m currently working in Binus University as **Application Developer**
+- 🔭 I’m currently working in PT Indotama Teknologi Inovasi as **Fullstack Developer**
 
 - 🤝 I’m looking for a full time job as **fullstack developer or mobile developer**
 
 - 👨‍💻 All of my projects are available at [https://shirloin.my.id](https://shirloin.my.id)
 
-- 💬 Ask me about **react, vue, android, flutter, laravel**
+- 💬 Ask me about **react, angular, spring boot, laravel**
 
 - 📫 How to reach me **riccardo8902@gmail.com**
 
