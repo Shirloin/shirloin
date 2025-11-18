@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riccardo</h1>
-<h3 align="center">A passionate fullstack developer and cross platform mobile developer</h3>
+<h3 align="center">A passionate Fullstack and Cloud Platform Engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shirloin" alt="shirloin" /></a> </p>
 
