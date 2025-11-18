@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shirloin" alt="shirloin" /></a> </p>
 
-- 🔭 I’m currently working in PT Indotama Teknologi Inovasi as **Fullstack Developer**
+- 🔭 I’m currently working in PT Indotama Teknologi Inovasi as **Fullstack & Cloud Platform Engineer**
 
-- 🤝 I’m looking for a full time job as **fullstack developer or mobile developer**
+- 🤝 I’m looking for a full time job as **Fullstack or Cloud Platform Engineer**
 
 - 👨‍💻 All of my projects are available at [https://shirloin.my.id](https://shirloin.my.id)
 
